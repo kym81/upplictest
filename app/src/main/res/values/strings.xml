@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Upplic Test Task</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="test_json">[
+        {\"name\": \"London\",
+        \"description\": \"The capital of Great Britain\",
+        \"count\": 100500,
+        \"selected\": 1},
+        {\"name\": \"Moscow\",
+        \"description\": \"Our home\",
+        \"count\": 999999,
+        \"selected\": 0},
+        {\"name\": \"New York\",
+        \"description\": \"Their  home\",
+        \"count\": 666666,
+        \"selected\": 0},
+        {\"name\": \"Beijing\",
+        \"description\": \"The capital of a lot of small houses\",
+        \"count\": 777777777,
+        \"selected\": 1},
+        {\"name\": \"Tokyo\",
+        \"description\": \"Country wide eye\",
+        \"count\": 123456,
+        \"selected\": 1}
+        ]</string>
+
+</resources>

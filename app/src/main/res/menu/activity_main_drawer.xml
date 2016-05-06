@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/nav_sort_by_alphabetical"
+            android:checkable="false"
+            android:title="List sorted by alphabetical"/>
+        <item
+            android:id="@+id/nav_sort_by_value"
+            android:checkable="false"
+            android:title="List sorted by value"/>
+    </group>
+
+</menu>
